@@ -34,8 +34,6 @@ from models.models import (
 )
 
 
-from sqlalchemy.sql import or_
-
 
 from .schemes import (
     LoginAdmin,
