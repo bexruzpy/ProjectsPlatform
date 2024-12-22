@@ -33,6 +33,7 @@ from models.models import (
     payment_admin
 )
 
+from sqlalchemy.sql import or_
 
 
 from .schemes import (
