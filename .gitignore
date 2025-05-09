@@ -1,2 +1,4 @@
 migrations/versions
 .env
+venv
+__pycache__
